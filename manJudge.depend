@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502209628 source:c:\users\user\desktop\manjudge\main.cpp
+	<cstdio>
+	<windows.h>
+
